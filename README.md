@@ -1,3 +1,3 @@
-# Java Program Branch
+# Python Program Branch
 
-This branch contains a simple Java program and Jenkins pipeline configuration.
+This branch contains a simple Python program and Jenkins pipeline configuration.
